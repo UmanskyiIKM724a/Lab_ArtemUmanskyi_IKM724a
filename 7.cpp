@@ -20,4 +20,3 @@ int main() {
         cout << "The number is PRIME" << endl;
     }
 }
-//спасібо Стасік
